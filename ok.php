@@ -33,7 +33,7 @@ class OkApi{
     }
 }
 
-
+// пример использования
 $ok = new OkApi;
 $data= array(
     "format"=>"json",
